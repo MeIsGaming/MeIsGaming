@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **MeIsGaming/MeIsGaming** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +13,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<h3 align="center"> $$\Large{\color{aqua}MeIsGaming}$$ </h3>
+
+<h3 align="center">📫 How to reach me:</h3>
+<p align="center">
+<a href="[https://discord.gg/yeaUkARgpy](https://discord.gg/Msd62FzBB3)" target="_discord"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="discord" height="30" width="40" /></a>
+</p>
+
