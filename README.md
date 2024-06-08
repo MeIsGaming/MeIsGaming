@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 <h3 align="center">📫 How to reach me:</h3>
 <p align="center">
-<a href="https://discord.gg/Msd62FzBB3" target="_discord"><img align="center" src="https://raw.githubusercontent.com/MeIsGaming/MeIsGaming/main/.public/lewd_discord.gif" alt="discord" height="90" width="90" /></a>
+<a href="https://discord.com/users/871497360658800640" target="_discord"><img align="center" src="https://raw.githubusercontent.com/MeIsGaming/MeIsGaming/main/.public/lewd_discord.gif" alt="discord" height="90" width="90" /></a>
 </p>
 
 
